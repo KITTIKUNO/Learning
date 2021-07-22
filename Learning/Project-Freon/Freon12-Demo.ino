@@ -5,7 +5,7 @@
 #include <TridentTD_LineNotify.h>
 #define Switch1 D7
 #define Switch2 D8
-#define LINE_TOKEN  "750rYEeGxbGIcXsRQXt3y87v0rQUALMOJh1UP1Crj8u"
+#define LINE_TOKEN  "750rYEeGxbGIcXsRQXt3y87v0rQUALMOJh1UP1Crj8u" //Token
 
 int i;
 void setup() {
